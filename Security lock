@@ -1,0 +1,6 @@
+while True:
+    user=input("Enter the password : ")
+    if user=="password";
+        print("correct password")
+    else:
+        print("wrong password")
